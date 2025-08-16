@@ -34,7 +34,7 @@ and stored into the folder `/de`. Then each frames are decoded back into text fo
 
 ---
 ## Concept 
-This is an Extention of my project [/Encoder](/Encoder)
+This is an Extention of my project [Encoder](https://github.com/imposter404/Encoder)
 <br>
 for more information look into that Github Repository
 
@@ -54,6 +54,7 @@ Jupyter Notebook
 ``` python 
 Main.ipynb
 ```
+
 
 
 

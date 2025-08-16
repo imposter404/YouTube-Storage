@@ -1,6 +1,7 @@
 # Youtube As Storage
 ## Objective
 To use Youtube as Unlimited Storage Server for Free !!!
+
 ---
 ## Disclaimer
 This is for Educational Purpose Only <br>
@@ -31,9 +32,9 @@ Firstly the video `a.avi` is taken then each frame is extracted and converted in
 and stored into the folder `/de`. Then each frames are decoded back into text format and stored into `file_output.txt` 
 
 
-
-### Concept 
-This is an Extention of my project [/Encoder](https://github.com/imposter404/Encoder)
+---
+## Concept 
+This is an Extention of my project [/Encoder](/Encoder)
 <br>
 for more information look into that Github Repository
 
@@ -53,6 +54,7 @@ Jupyter Notebook
 ``` python 
 Main.ipynb
 ```
+
 
 
 

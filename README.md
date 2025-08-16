@@ -7,6 +7,14 @@ To use Youtube as Unlimited Storage Server to store files for Free !!!
 This is for Educational Purpose Only <br>
 plz Dont Crash Youtube Server :)
 
+---
+
+## Written In Python
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" alt="Python" />
+
+</div>
 
 ---
 # Setup

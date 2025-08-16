@@ -12,7 +12,7 @@ plz Dont Crash Youtube Server :)
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" alt="Python" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="50px" alt="OpenCV" />
 </div>
 
 

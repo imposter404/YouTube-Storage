@@ -8,7 +8,6 @@ This is for Educational Purpose Only <br>
 plz Dont Crash Youtube Server :)
 
 ---
-
 ## Written In Python
 
 <div align="left">
@@ -16,8 +15,7 @@ plz Dont Crash Youtube Server :)
 
 </div>
 
----
-# Setup
+
 ## Python Dependency 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" height="50px" alt="pypi" />
 

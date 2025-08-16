@@ -30,11 +30,16 @@ after that all the `.png` images is converted into a video file named `a.avi` <b
 Firstly the video `a.avi` is taken then each frame is extracted and converted into a `.png` file 
 and stored into the folder `/de`. Then each frames are decoded back into text format and stored into `file_output.txt` 
 
----
-# Concept
-This is an Extention of my project [/Encoder](https://github.com/imposter404/Encoder)<br>
+
+
+### Concept 
+This is an Extention of my project [/Encoder](https://github.com/imposter404/Encoder)
+<br>
 for more information look into that Github Repository
+
 ---
+
+
 # Setup
 The `requirements.txt` file should list all Python libraries that your code
 depend on, and they will be installed using:
@@ -48,5 +53,6 @@ Jupyter Notebook
 ``` python 
 Main.ipynb
 ```
+
 
 

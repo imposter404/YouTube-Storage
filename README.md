@@ -1,5 +1,5 @@
 # Youtube As Storage
-# Objective
+## Objective
 To use Youtube as Unlimited Storage Server for Free !!!
 ---
 ## Disclaimer
@@ -32,10 +32,10 @@ and stored into the folder `/de`. Then each frames are decoded back into text fo
 
 ---
 # Concept
-This is an Extention of my project [/Encoder]('')<br>
+This is an Extention of my project [/Encoder]('https://github.com/imposter404/Encoder')<br>
 for more information look into that Github Repository
-#
 ---
+# Setup
 The `requirements.txt` file should list all Python libraries that your code
 depend on, and they will be installed using:
 
@@ -48,3 +48,4 @@ Jupyter Notebook
 ``` python 
 Main.ipynb
 ```
+

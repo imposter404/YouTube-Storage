@@ -37,6 +37,12 @@ after that all the `.png` images is converted into a video file named `a.avi` <b
 Firstly the video `a.avi` is taken then each frame is extracted and converted into a `.png` file 
 and stored into the folder `/de`. Then each frames are decoded back into text format and stored into `file_output.txt` 
 
+### YouTube Server
+Upload the video `a.avi` to YouTube to store it on YouTube server. When you need it download the video using `yt-dlp` or any other youtube client. Then decide the video to get your required files.
+
+In this way you can walk your way around to store your data on YouTube server.
+
+:) 
 
 ---
 ## Concept 

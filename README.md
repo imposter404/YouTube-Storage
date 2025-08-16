@@ -1,6 +1,6 @@
 # Youtube As Storage
 ## Objective
-To use Youtube as Unlimited Storage Server for Free !!!
+To use Youtube as Unlimited Storage Server to store files for Free !!!
 
 ---
 ## Disclaimer
